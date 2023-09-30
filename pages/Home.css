@@ -1,0 +1,25 @@
+.navbar {
+    position: fixed;
+}
+
+.title {
+    flex-grow: 1;
+    font-weight: bold;
+}
+
+.inputGroup {
+    padding: 14px;
+    display: flex;
+    flex-direction: row;
+}
+
+.audioPlayer {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 96vw;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
