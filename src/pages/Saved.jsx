@@ -30,11 +30,11 @@ export default function Saved() {
                     <Typography variant="h5" className='title'>
                         Saved
                     </Typography>
-                    <Button color="inherit">
+{/*                     <Button color="inherit">
                         <Link to='/about' className='link'>
                             About
                         </Link>
-                    </Button>
+                    </Button> */}
                 </Toolbar>
             </AppBar>
 
